@@ -32,6 +32,17 @@ header > h1 {
     
 }
 
+h2 {
+    background-image: linear-gradient(to right, rgba(38, 0, 255, 0.527), transparent);
+    padding-left: 10px;
+}
+
+h3#curriculo {
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+
 article > p {
     text-align: justify;
     line-height: 1.4em;
