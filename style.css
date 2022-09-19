@@ -156,3 +156,8 @@ footer > p {
 #biografia p {
     line-height: 2em;
 }
+
+a#livro {
+    color: white;
+    background-color: rgb(255, 0, 0);
+}
